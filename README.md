@@ -2,7 +2,7 @@
 ## Final Project
 This project was created for my CS156 machine learning class final project at Minerva University. The project was open ended; students were told to choose a dataset and achieve a practical goal using concepts covered in the class. 
 
-I chose to build various classifiers for cat breeds using images of cats and their associated breed labels. I achieved this using Python libraries such as Sci-Kit Learn, Pandas, Matplotlib, NumPy, and Tensorflow.
+I chose to build various classifiers for cat breeds using images of cats and their associated breed labels and compared their accuracy scores. I achieved this using Python libraries such as Sci-Kit Learn, Pandas, Matplotlib, NumPy, and Tensorflow.
 
 I created 10 different classifiers, each with a different machine learning method: Logistic Regression, Logistic Regression with PCA (Principal Component Analysis), Logistic Regression with LDA (Linear Discriminant Analysis), Linear SVM (Support Vector Machine), Polynomial SVM, Radial Basis Function SVM, VGG16 Neural Network, Inception Neural Network, ResNet50 Neural Network, Efficient Neural Network.
 
