@@ -1,5 +1,4 @@
-# CS156: Machine Learning for Science and Profit
-## Final Project
+# Cat Breed Classifier
 I created this project for my CS156 machine learning class final project at Minerva University. The project was open-ended; students were told to choose a dataset and achieve a practical goal using concepts covered in the class.
 
 I used images of cats and their associated breed labels to build various classifiers for cat breeds and compared their accuracy scores. I achieved this using Python libraries such as Scikit-Learn, Pandas, Matplotlib, NumPy, and Tensorflow.
